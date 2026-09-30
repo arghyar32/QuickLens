@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QuickLens</string>
+    <string name="tile_label">QuickLens</string>
+    <string name="channel_name">Screen Capture Active</string>
+    <string name="channel_desc">Active foreground service for instant screen projection</string>
+    <string name="notification_title">QuickLens Ready</string>
+    <string name="notification_text">Tap Quick Settings tile anytime to capture to Google Lens</string>
+    <string name="toast_permission_required">Please enable QuickLens Accessibility Service first</string>
+    <string name="toast_lens_not_found">Google Lens is not installed on this device</string>
+    <string name="accessibility_service_description">QuickLens uses this service to take instant screenshots for Google Lens visual search without repeated permission dialogs.</string>
+
+    <!-- App Shortcuts & Trigger Preferences -->
+    <string name="shortcut_settings_short">Settings</string>
+    <string name="shortcut_settings_long">QuickLens Settings</string>
+    <string name="pref_launcher_trigger_title">Launcher Tap to Search</string>
+    <string name="pref_launcher_trigger_desc">Directly trigger search when tapping the QuickLens icon on your home screen</string>
+    <string name="pref_nav_bar_gesture_title">Navigation Bar Long-Press</string>
+    <string name="pref_nav_bar_gesture_desc">Hold the bottom navigation pill to trigger Circle to Search natively</string>
+    <string name="launcher_shortcut_hint">Tip: Long-press the app icon on your home screen and select \'Settings\' to open this screen at any time.</string>
+</resources>
